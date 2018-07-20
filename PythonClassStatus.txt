@@ -1,1 +1,2 @@
 Random , Files introduction class completed on 19-07-18
+file operations like write,read,tell completed on 20-07-18
